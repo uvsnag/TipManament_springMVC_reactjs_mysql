@@ -1,0 +1,8 @@
+0:0:0:0:0:0:0:1 - - [25/Nov/2021:13:19:00 +0700] "GET /SpringMVCVertica/info?typeUpdate=null&id=null HTTP/1.1" 404 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [25/Nov/2021:13:19:28 +0700] "GET /SpringMVCTips/info?typeUpdate=null&id=null HTTP/1.1" 500 10033 http-bio-8080-exec-2 215
+0:0:0:0:0:0:0:1 - - [25/Nov/2021:13:19:37 +0700] "GET /SpringMVCTips/ HTTP/1.1" 200 57 http-bio-8080-exec-3 426
+0:0:0:0:0:0:0:1 - - [25/Nov/2021:13:19:38 +0700] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-5 0
+0:0:0:0:0:0:0:1 - - [25/Nov/2021:13:19:44 +0700] "GET / HTTP/1.1" 404 - http-bio-8080-exec-6 0
+0:0:0:0:0:0:0:1 - - [25/Nov/2021:13:19:48 +0700] "GET /SpringMVCTips/ HTTP/1.1" 200 57 http-bio-8080-exec-7 2
+0:0:0:0:0:0:0:1 - - [25/Nov/2021:13:20:25 +0700] "GET /SpringMVCTips/info HTTP/1.1" 500 10033 http-bio-8080-exec-8 40
+0:0:0:0:0:0:0:1 - - [25/Nov/2021:13:25:42 +0700] "GET /SpringMVCTips/info HTTP/1.1" 500 11496 http-bio-8080-exec-1 500

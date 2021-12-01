@@ -1,0 +1,73 @@
+.topnav .icon {
+    display: none;
+}
+.topnav {
+    overflow: hidden;
+    background-color: rgb(0, 128, 64);
+    width: 97%;
+  }
+  
+  .topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .topnav a.active {
+    background-color: #04AA6D;
+    color: white;
+  }
+   
+ /*   ^bootstrap================================================== */
+
+body{
+	 padding-left: 25px;
+	 padding-top: 15px;
+	 padding-bottom: 15px;
+}
+
+.tableInfo{
+	border: 1px solid black;
+	margin: 15px 15px 15px 25px;
+}
+.tableInfo  td{
+	border: 1px solid black;
+	padding-left: 15px;
+}
+table {
+  width: 90%;
+
+}
+
+.row-title{
+	 background-color: rgb(26, 71, 24);
+	 color: white;
+}
+.row-input{
+	display: inline-block;
+}
+
+.frame{
+	border: 3px solid #31362a;
+	padding: 15px 15px 15px 15px; 
+    margin: 15px 15px 15px 25px;
+    width: 90%;
+}
+
+.title{
+	color: rgb(26, 71, 24);
+	  font-size: 28px;
+    font-weight: bold;
+}
+.editInfo{
+	 width: 60% !important;
+}
